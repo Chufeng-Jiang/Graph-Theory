@@ -1,12 +1,11 @@
-package Chapt01_Adjacency;
+package Chapt02_DFS._0203_Graph_DFS_UsingInterface_Combiation;
 
 import java.io.File;
 import java.io.IOException;
 import java.util.LinkedList;
 import java.util.Scanner;
 
-
-public class AdjList {
+public class AdjList implements Graph {
     private int V;
     private int E;
     private LinkedList<Integer>[] adj;

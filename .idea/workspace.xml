@@ -4,7 +4,59 @@
     <option name="autoReloadType" value="SELECTIVE" />
   </component>
   <component name="ChangeListManager">
-    <list default="true" id="466e5a04-5c80-4bf5-a00d-2cb918bdaf8f" name="Changes" comment="" />
+    <list default="true" id="466e5a04-5c80-4bf5-a00d-2cb918bdaf8f" name="Changes" comment="">
+      <change afterPath="$PROJECT_DIR$/g5.txt" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/g6.txt" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/g7.txt" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/Chapt02_DFS/_0201_Graph_DFS_ArrayList/Graph.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/Chapt02_DFS/_0201_Graph_DFS_ArrayList/GraphDFS.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/Chapt02_DFS/_0202_Graph_DFS_PreOrderAndPostOrder_AdjMatrix/AdjMatrix.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/Chapt02_DFS/_0202_Graph_DFS_PreOrderAndPostOrder_AdjMatrix/AdjMatrixDFS.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/Chapt02_DFS/_0204_Graph_DFS_WithoutRecursion/Graph.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/Chapt03_DFS_Path/_0301_SingleSourcePath/SingleSourcePath_Improvement.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/Chapt03_DFS_Path/_0302_AllPairsPath/_01_UsingSingleSourcePath/AllPairsPath.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/Chapt03_DFS_Path/_0302_AllPairsPath/_01_UsingSingleSourcePath/Graph.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/Chapt03_DFS_Path/_0302_AllPairsPath/_01_UsingSingleSourcePath/SingleSourcePath.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/Chapt03_DFS_Path/_0302_AllPairsPath/_01_UsingSingleSourcePath/SingleSourcePath_Improvement.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/Chapt03_DFS_Path/_0302_AllPairsPath/_02_Direct_DFS_improvement/Graph.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/Chapt03_DFS_Path/_0302_AllPairsPath/_02_Direct_DFS_improvement/Path.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/Chapt03_DFS_Path/_0303_CycleDetection/CycleDetection.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/Chapt03_DFS_Path/_0303_CycleDetection/Graph.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/Chapt03_DFS_Path/_0304_BipartitionDetection/BipartitionDetection.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/Chapt03_DFS_Path/_0304_BipartitionDetection/Graph.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/Chapt04_BFS_Path/_0401_Graph_BFS_Queue/Graph.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/Chapt04_BFS_Path/_0401_Graph_BFS_Queue/GraphBFS.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/Chapt04_BFS_Path/_0402_SingleSourcePath/Graph.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/Chapt04_BFS_Path/_0402_SingleSourcePath/Path.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/Chapt04_BFS_Path/_0402_SingleSourcePath/SingleSourcePath.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/Chapt04_BFS_Path/_0403_AllPairsPath/AllPairsPath_UsingSingleSourcePath.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/Chapt04_BFS_Path/_0403_AllPairsPath/Graph.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/Chapt04_BFS_Path/_0403_AllPairsPath/Path.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/Chapt04_BFS_Path/_0403_AllPairsPath/SingleSourcePath.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/Chapt04_BFS_Path/_0404_Graph_BFS_ConnectedComponentsCount/Graph.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/Chapt04_BFS_Path/_0405_CycleDetection/CycleDetection.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/Chapt04_BFS_Path/_0405_CycleDetection/Graph.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/Chapt04_BFS_Path/_0406_BipartitionDetection/BipartitionDetection.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/Chapt04_BFS_Path/_0406_BipartitionDetection/Graph.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/Chapt04_BFS_Path/_0407_UnweightedSingleSourceShortestPaths/Graph.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/Chapt04_BFS_Path/_0407_UnweightedSingleSourceShortestPaths/USSSPath.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/workspace.xml" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/g4.txt" beforeDir="false" afterPath="$PROJECT_DIR$/g4.txt" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/Chapt01_Adjacency/AdjList.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/Chapt01_Adjacency/AdjList.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/Chapt02_DFS/AdjList.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/Chapt02_DFS/_0203_Graph_DFS_UsingInterface_Combiation/AdjList.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/Chapt02_DFS/AdjMatrix.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/Chapt02_DFS/_0203_Graph_DFS_UsingInterface_Combiation/AdjMatrix.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/Chapt02_DFS/AdjMatrixDFS.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/Chapt02_DFS/_0205_Graph_DFS_ConnectedComponentsCount/GraphDFS.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/Chapt02_DFS/AdjSet.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/Chapt02_DFS/_0203_Graph_DFS_UsingInterface_Combiation/AdjSet.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/Chapt02_DFS/Graph.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/Chapt02_DFS/_0203_Graph_DFS_UsingInterface_Combiation/Graph.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/Chapt02_DFS/GraphDFS.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/Chapt02_DFS/_0203_Graph_DFS_UsingInterface_Combiation/GraphDFS.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/Chapt02_DFS/GraphDFSnr.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/Chapt02_DFS/_0204_Graph_DFS_WithoutRecursion/GraphDFSnr.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/Chapt02_DFS/connected/CC.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/Chapt02_DFS/_0205_Graph_DFS_ConnectedComponentsCount/CC.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/Chapt02_DFS/connected/Graph_1.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/Chapt02_DFS/_0205_Graph_DFS_ConnectedComponentsCount/Graph.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/Chapt03_SingleSourcePath/CC.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/Chapt04_BFS_Path/_0404_Graph_BFS_ConnectedComponentsCount/CC.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/Chapt03_SingleSourcePath/Graph.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/Chapt03_DFS_Path/_0301_SingleSourcePath/Graph.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/Chapt03_SingleSourcePath/GraphDFS.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/Chapt02_DFS/_0204_Graph_DFS_WithoutRecursion/GraphDFS.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/Chapt03_SingleSourcePath/SingleSourcePath.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/Chapt03_DFS_Path/_0301_SingleSourcePath/SingleSourcePath.java" afterDir="false" />
+    </list>
     <option name="SHOW_DIALOG" value="false" />
     <option name="HIGHLIGHT_CONFLICTS" value="true" />
     <option name="HIGHLIGHT_NON_ACTIVE_CHANGELIST" value="false" />
@@ -26,42 +78,47 @@
     <option name="hideEmptyMiddlePackages" value="true" />
     <option name="showLibraryContents" value="true" />
   </component>
-  <component name="PropertiesComponent">{
-  &quot;keyToString&quot;: {
-    &quot;RunOnceActivity.OpenProjectViewOnStart&quot;: &quot;true&quot;,
-    &quot;RunOnceActivity.ShowReadmeOnStart&quot;: &quot;true&quot;,
-    &quot;SHARE_PROJECT_CONFIGURATION_FILES&quot;: &quot;true&quot;,
-    &quot;WebServerToolWindowFactoryState&quot;: &quot;false&quot;,
-    &quot;last_opened_file_path&quot;: &quot;D:/Project Source Code/DS-Graph-Java/Graph&quot;,
-    &quot;node.js.detected.package.eslint&quot;: &quot;true&quot;,
-    &quot;node.js.detected.package.tslint&quot;: &quot;true&quot;,
-    &quot;node.js.selected.package.eslint&quot;: &quot;(autodetect)&quot;,
-    &quot;node.js.selected.package.tslint&quot;: &quot;(autodetect)&quot;,
-    &quot;onboarding.tips.debug.path&quot;: &quot;D:/Project Source Code/DS-Graph-Java/Graph/src/Main.java&quot;,
-    &quot;settings.editor.selected.configurable&quot;: &quot;com.maddyhome.idea.vim.ui.VimEmulationConfigurable&quot;,
-    &quot;vue.rearranger.settings.migration&quot;: &quot;true&quot;
+  <component name="PropertiesComponent"><![CDATA[{
+  "keyToString": {
+    "RunOnceActivity.OpenProjectViewOnStart": "true",
+    "RunOnceActivity.ShowReadmeOnStart": "true",
+    "SHARE_PROJECT_CONFIGURATION_FILES": "true",
+    "WebServerToolWindowFactoryState": "false",
+    "git-widget-placeholder": "main",
+    "last_opened_file_path": "D:/Project Source Code/DS-Graph-Java/Graph/src/Chapt04_BFS_Path/_0403_AllPairsPath",
+    "node.js.detected.package.eslint": "true",
+    "node.js.detected.package.tslint": "true",
+    "node.js.selected.package.eslint": "(autodetect)",
+    "node.js.selected.package.tslint": "(autodetect)",
+    "onboarding.tips.debug.path": "D:/Project Source Code/DS-Graph-Java/Graph/src/Main.java",
+    "settings.editor.selected.configurable": "com.maddyhome.idea.vim.ui.VimEmulationConfigurable",
+    "vue.rearranger.settings.migration": "true"
   }
-}</component>
+}]]></component>
   <component name="RecentsManager">
     <key name="CopyFile.RECENT_KEYS">
-      <recent name="D:\Project Source Code\DS-Graph-Java\Graph" />
-      <recent name="D:\Project Source Code\DS-Graph-Java\Graph\src" />
+      <recent name="D:\Project Source Code\DS-Graph-Java\Graph\src\Chapt04_BFS_Path\_0403_AllPairsPath" />
+      <recent name="D:\Project Source Code\DS-Graph-Java\Graph\src\Chapt04_BFS_Path\_0406_BipartitionDetection" />
+      <recent name="D:\Project Source Code\DS-Graph-Java\Graph\src\Chapt04_BFS_Path\_0405_CycleDetection" />
+      <recent name="D:\Project Source Code\DS-Graph-Java\Graph\src\Chapt04_BFS_Path\_0404_Graph_BFS_ConnectedComponentsCount" />
+      <recent name="D:\Project Source Code\DS-Graph-Java\Graph\src\Chapt04_BFS_Path\_0402_SingleSourcePath" />
     </key>
     <key name="MoveFile.RECENT_KEYS">
       <recent name="D:\Project Source Code\DS-Graph-Java\Graph" />
     </key>
     <key name="CopyClassDialog.RECENTS_KEY">
+      <recent name="Chapt04_BFS_Path._0402_SingleSourcePath" />
       <recent name="Chapt02_DFS" />
       <recent name="" />
     </key>
   </component>
-  <component name="RunManager" selected="Application.SingleSourcePath">
-    <configuration name="CC" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
-      <option name="MAIN_CLASS_NAME" value="Chapt02_DFS.connected.CC" />
+  <component name="RunManager" selected="Application.Chapt04_BFS_Path._0406_BipartitionDetection.BipartitionDetection">
+    <configuration name="BipartitionDetection" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
+      <option name="MAIN_CLASS_NAME" value="Chapt03_DFS_Path._0304_BipartitionDetection.BipartitionDetection" />
       <module name="Graph" />
       <extension name="coverage">
         <pattern>
-          <option name="PATTERN" value="Chapt02_DFS.connected.*" />
+          <option name="PATTERN" value="Chapt03_DFS_Path._0304_BipartitionDetection.*" />
           <option name="ENABLED" value="true" />
         </pattern>
       </extension>
@@ -69,12 +126,12 @@
         <option name="Make" enabled="true" />
       </method>
     </configuration>
-    <configuration name="Graph" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
-      <option name="MAIN_CLASS_NAME" value="Chapt03_SingleSourcePath.Graph" />
+    <configuration name="Chapt04_BFS_Path._0406_BipartitionDetection.BipartitionDetection" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
+      <option name="MAIN_CLASS_NAME" value="Chapt04_BFS_Path._0406_BipartitionDetection.BipartitionDetection" />
       <module name="Graph" />
       <extension name="coverage">
         <pattern>
-          <option name="PATTERN" value="Chapt03_SingleSourcePath.*" />
+          <option name="PATTERN" value="Chapt04_BFS_Path._0406_BipartitionDetection.*" />
           <option name="ENABLED" value="true" />
         </pattern>
       </extension>
@@ -82,12 +139,12 @@
         <option name="Make" enabled="true" />
       </method>
     </configuration>
-    <configuration name="GraphDFS" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
-      <option name="MAIN_CLASS_NAME" value="Chapt02_DFS.GraphDFS" />
+    <configuration name="CycleDetection" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
+      <option name="MAIN_CLASS_NAME" value="Chapt03_DFS_Path._0303_CycleDetection.CycleDetection" />
       <module name="Graph" />
       <extension name="coverage">
         <pattern>
-          <option name="PATTERN" value="Chapt02_DFS.connected.*" />
+          <option name="PATTERN" value="Chapt03_DFS_Path._0303_CycleDetection.*" />
           <option name="ENABLED" value="true" />
         </pattern>
       </extension>
@@ -95,12 +152,12 @@
         <option name="Make" enabled="true" />
       </method>
     </configuration>
-    <configuration name="GraphDFSnr" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
-      <option name="MAIN_CLASS_NAME" value="Chapt02_DFS.GraphDFSnr" />
+    <configuration name="GraphBFS" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
+      <option name="MAIN_CLASS_NAME" value="Chapt04_BFS_Path._0401_Graph_BFS_Queue.GraphBFS" />
       <module name="Graph" />
       <extension name="coverage">
         <pattern>
-          <option name="PATTERN" value="Chapt02_DFS.connected.*" />
+          <option name="PATTERN" value="Chapt04_BFS_Path._0401_Graph_BFS_Queue.*" />
           <option name="ENABLED" value="true" />
         </pattern>
       </extension>
@@ -108,12 +165,12 @@
         <option name="Make" enabled="true" />
       </method>
     </configuration>
-    <configuration name="SingleSourcePath" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
-      <option name="MAIN_CLASS_NAME" value="Chapt03_SingleSourcePath.SingleSourcePath" />
+    <configuration name="USSSPath" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
+      <option name="MAIN_CLASS_NAME" value="Chapt04_BFS_Path._0407_UnweightedSingleSourceShortestPaths.USSSPath" />
       <module name="Graph" />
       <extension name="coverage">
         <pattern>
-          <option name="PATTERN" value="Chapt03_SingleSourcePath.*" />
+          <option name="PATTERN" value="Chapt04_BFS_Path._0407_UnweightedSingleSourceShortestPaths.*" />
           <option name="ENABLED" value="true" />
         </pattern>
       </extension>
@@ -123,11 +180,11 @@
     </configuration>
     <recent_temporary>
       <list>
-        <item itemvalue="Application.SingleSourcePath" />
-        <item itemvalue="Application.Graph" />
-        <item itemvalue="Application.CC" />
-        <item itemvalue="Application.GraphDFSnr" />
-        <item itemvalue="Application.GraphDFS" />
+        <item itemvalue="Application.Chapt04_BFS_Path._0406_BipartitionDetection.BipartitionDetection" />
+        <item itemvalue="Application.USSSPath" />
+        <item itemvalue="Application.GraphBFS" />
+        <item itemvalue="Application.BipartitionDetection" />
+        <item itemvalue="Application.CycleDetection" />
       </list>
     </recent_temporary>
   </component>
@@ -142,7 +199,8 @@
       <workItem from="1693671854478" duration="1232000" />
       <workItem from="1693674618592" duration="8654000" />
       <workItem from="1693751660015" duration="13096000" />
-      <workItem from="1693888502765" duration="699000" />
+      <workItem from="1693888502765" duration="4574000" />
+      <workItem from="1693925721538" duration="28075000" />
     </task>
     <servers />
   </component>
