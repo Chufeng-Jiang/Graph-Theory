@@ -14,11 +14,12 @@ public class AdjMatrix {
     public AdjMatrix(String filename){
         File file = new File(filename);
         try(Scanner scanner = new Scanner(file)){
-            V = scanner.nextInt(); //读取第一行第一个数
+            V = scanner.nextInt(); //读取第一行第一个数,代表图中的顶点数
             if(V < 0) throw new IllegalArgumentException("V must be non-negative");
+
             adj = new int[V][V]; //构造邻接矩阵
 
-            E = scanner.nextInt(); //读取第一行第二个数
+            E = scanner.nextInt(); //读取第一行第二个数，代表图中边的数量
             if(E < 0) throw new IllegalArgumentException("E must be non-negative");
 
             // E是边的数量，在g.txt中表示为第二行开始的E行
@@ -29,7 +30,7 @@ public class AdjMatrix {
                 validateVertex(b);
 
                 if(a == b) throw new IllegalArgumentException("Self Loop is Detected"); //判断是够存在自环边
-                if(adj[a][b] == 1) throw new IllegalArgumentException("Parallel Edges are Detected"); //判断是够存在平行l边
+                if(adj[a][b] == 1) throw new IllegalArgumentException("Parallel Edges are Detected"); //判断是否存在平行l边
 
                 adj[a][b] = 1; //存在边则设置为1
                 adj[b][a] = 1;

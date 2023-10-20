@@ -16,6 +16,7 @@ public class AdjList {
         try(Scanner scanner = new Scanner(file)){
             V = scanner.nextInt();
             if(V < 0) throw new IllegalArgumentException("V must be non-negative");
+
             adj = new LinkedList[V]; //构造邻接表, V行，V个LinkedList
             for (int i = 0; i < V; i++) {
                adj[i] = new LinkedList<Integer>();
