@@ -21,7 +21,7 @@ public class BipartitionDetection {
 
         for(int v = 0; v < G.V(); v ++)
             if(!visited[v]) //如果没有被访问
-                if(!dfs(v, 0)){ // 起始的时候把v统一染成0色
+                if(!dfs(v, 0)){ // 起始的时候把v统一染成0色，如果dfs返回的false，进入下面结构体，否则跳出执行v++
                     isBipartite = false; // 检测出错了，就设置成false
                     break; // 后续的循环就不需要进行了
                 }

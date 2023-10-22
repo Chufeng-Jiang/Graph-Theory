@@ -24,18 +24,19 @@ public class Path {
 
         visited = new boolean[G.V()];
         pre = new int[G.V()];
+
         for(int i = 0; i < pre.length; i ++)
             pre[i] = -1;
 
         bfs();
 
+        // 输出该点是否被访问过
         for(boolean e: visited)
             System.out.print(e + " ");
         System.out.println();
     }
 
     private void bfs(){
-
         Queue<Integer> queue = new LinkedList<>();
         queue.add(s);
         visited[s] = true;
@@ -78,7 +79,7 @@ public class Path {
 
     public static void main(String[] args){
 
-        Graph g = new Graph("g.txt");
+        Graph g = new Graph("g1.txt");
         Path path = new Path(g, 0, 6);
         System.out.println("0 -> 6 : " + path.path());
 

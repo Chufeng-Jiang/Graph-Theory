@@ -30,7 +30,7 @@ public class CycleDetection {
                 if(dfs(w, v)) //如果dfs返回true，则说明有环。因为dfs有环才会返回true，那么进入if选择语句return true提前结束
                     return true;
             }
-            else if(w != parent) // case2：从v出发，找到了w，w还被访问过，并且w不是v的上一个节点
+            else if(w != parent) // case2：从v出发，找到了w，w还被访问过，并且w不是v的前一个节点
                 return true; // 此时找到了环
 
         //其他的情况，找一圈没有找到环，返回false

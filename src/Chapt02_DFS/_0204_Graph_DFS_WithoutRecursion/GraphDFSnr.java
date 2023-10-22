@@ -20,10 +20,10 @@ public class GraphDFSnr {
     }
 
     private void dfs(int v){
-
         Stack<Integer> stack = new Stack<>();
         stack.push(v);
         visited[v] = true;
+
         while(!stack.empty()){
             int cur = stack.pop();
             pre.add(cur);

@@ -6,8 +6,10 @@
   <component name="ChangeListManager">
     <list default="true" id="466e5a04-5c80-4bf5-a00d-2cb918bdaf8f" name="Changes" comment="">
       <change beforePath="$PROJECT_DIR$/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/workspace.xml" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/src/Chapt01_Adjacency/AdjList.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/Chapt01_Adjacency/AdjList.java" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/src/Chapt01_Adjacency/AdjMatrix.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/Chapt01_Adjacency/AdjMatrix.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/Chapt02_DFS/_0204_Graph_DFS_WithoutRecursion/GraphDFSnr.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/Chapt02_DFS/_0204_Graph_DFS_WithoutRecursion/GraphDFSnr.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/Chapt03_DFS_Path/_0303_CycleDetection/CycleDetection.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/Chapt03_DFS_Path/_0303_CycleDetection/CycleDetection.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/Chapt03_DFS_Path/_0304_BipartitionDetection/BipartitionDetection.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/Chapt03_DFS_Path/_0304_BipartitionDetection/BipartitionDetection.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/Chapt04_BFS_Path/_0403_AllPairsPath/Path.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/Chapt04_BFS_Path/_0403_AllPairsPath/Path.java" afterDir="false" />
     </list>
     <option name="SHOW_DIALOG" value="false" />
     <option name="HIGHLIGHT_CONFLICTS" value="true" />
@@ -64,13 +66,13 @@
       <recent name="" />
     </key>
   </component>
-  <component name="RunManager" selected="Application.AdjSet">
-    <configuration name="AdjList" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
-      <option name="MAIN_CLASS_NAME" value="Chapt01_Adjacency.AdjList" />
+  <component name="RunManager" selected="Application.Path">
+    <configuration name="GraphBFS" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
+      <option name="MAIN_CLASS_NAME" value="Chapt04_BFS_Path._0401_Graph_BFS_Queue.GraphBFS" />
       <module name="Graph" />
       <extension name="coverage">
         <pattern>
-          <option name="PATTERN" value="Chapt01_Adjacency.*" />
+          <option name="PATTERN" value="Chapt04_BFS_Path._0401_Graph_BFS_Queue.*" />
           <option name="ENABLED" value="true" />
         </pattern>
       </extension>
@@ -78,12 +80,12 @@
         <option name="Make" enabled="true" />
       </method>
     </configuration>
-    <configuration name="AdjMatrix" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
-      <option name="MAIN_CLASS_NAME" value="Chapt01_Adjacency.AdjMatrix" />
+    <configuration name="GraphDFS" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
+      <option name="MAIN_CLASS_NAME" value="Chapt02_DFS._0204_Graph_DFS_WithoutRecursion.GraphDFS" />
       <module name="Graph" />
       <extension name="coverage">
         <pattern>
-          <option name="PATTERN" value="Chapt01_Adjacency.*" />
+          <option name="PATTERN" value="Chapt02_DFS._0204_Graph_DFS_WithoutRecursion.*" />
           <option name="ENABLED" value="true" />
         </pattern>
       </extension>
@@ -91,12 +93,12 @@
         <option name="Make" enabled="true" />
       </method>
     </configuration>
-    <configuration name="AdjSet" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
-      <option name="MAIN_CLASS_NAME" value="Chapt01_Adjacency.AdjSet" />
+    <configuration name="GraphDFSnr" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
+      <option name="MAIN_CLASS_NAME" value="Chapt02_DFS._0204_Graph_DFS_WithoutRecursion.GraphDFSnr" />
       <module name="Graph" />
       <extension name="coverage">
         <pattern>
-          <option name="PATTERN" value="Chapt01_Adjacency.*" />
+          <option name="PATTERN" value="Chapt02_DFS._0204_Graph_DFS_WithoutRecursion.*" />
           <option name="ENABLED" value="true" />
         </pattern>
       </extension>
@@ -104,12 +106,12 @@
         <option name="Make" enabled="true" />
       </method>
     </configuration>
-    <configuration name="Chapt04_BFS_Path._0406_BipartitionDetection.BipartitionDetection" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
-      <option name="MAIN_CLASS_NAME" value="Chapt04_BFS_Path._0406_BipartitionDetection.BipartitionDetection" />
+    <configuration name="Path" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
+      <option name="MAIN_CLASS_NAME" value="Chapt04_BFS_Path._0403_AllPairsPath.Path" />
       <module name="Graph" />
       <extension name="coverage">
         <pattern>
-          <option name="PATTERN" value="Chapt04_BFS_Path._0406_BipartitionDetection.*" />
+          <option name="PATTERN" value="Chapt04_BFS_Path._0403_AllPairsPath.*" />
           <option name="ENABLED" value="true" />
         </pattern>
       </extension>
@@ -132,11 +134,11 @@
     </configuration>
     <recent_temporary>
       <list>
-        <item itemvalue="Application.AdjSet" />
-        <item itemvalue="Application.AdjMatrix" />
-        <item itemvalue="Application.AdjList" />
-        <item itemvalue="Application.Chapt04_BFS_Path._0406_BipartitionDetection.BipartitionDetection" />
+        <item itemvalue="Application.Path" />
         <item itemvalue="Application.USSSPath" />
+        <item itemvalue="Application.GraphBFS" />
+        <item itemvalue="Application.GraphDFSnr" />
+        <item itemvalue="Application.GraphDFS" />
       </list>
     </recent_temporary>
   </component>
@@ -156,6 +158,8 @@
       <workItem from="1694137230935" duration="750000" />
       <workItem from="1697558654225" duration="3695000" />
       <workItem from="1697819117696" duration="4495000" />
+      <workItem from="1697842566640" duration="4000" />
+      <workItem from="1697906909126" duration="14830000" />
     </task>
     <servers />
   </component>
