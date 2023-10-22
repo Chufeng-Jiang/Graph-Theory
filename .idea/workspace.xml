@@ -5,11 +5,8 @@
   </component>
   <component name="ChangeListManager">
     <list default="true" id="466e5a04-5c80-4bf5-a00d-2cb918bdaf8f" name="Changes" comment="">
+      <change afterPath="$PROJECT_DIR$/src/Chapt05_Path_Union_Find/Union_Find.java" afterDir="false" />
       <change beforePath="$PROJECT_DIR$/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/workspace.xml" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/src/Chapt02_DFS/_0204_Graph_DFS_WithoutRecursion/GraphDFSnr.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/Chapt02_DFS/_0204_Graph_DFS_WithoutRecursion/GraphDFSnr.java" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/src/Chapt03_DFS_Path/_0303_CycleDetection/CycleDetection.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/Chapt03_DFS_Path/_0303_CycleDetection/CycleDetection.java" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/src/Chapt03_DFS_Path/_0304_BipartitionDetection/BipartitionDetection.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/Chapt03_DFS_Path/_0304_BipartitionDetection/BipartitionDetection.java" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/src/Chapt04_BFS_Path/_0403_AllPairsPath/Path.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/Chapt04_BFS_Path/_0403_AllPairsPath/Path.java" afterDir="false" />
     </list>
     <option name="SHOW_DIALOG" value="false" />
     <option name="HIGHLIGHT_CONFLICTS" value="true" />
@@ -32,30 +29,30 @@
     <option name="hideEmptyMiddlePackages" value="true" />
     <option name="showLibraryContents" value="true" />
   </component>
-  <component name="PropertiesComponent">{
-  &quot;keyToString&quot;: {
-    &quot;RunOnceActivity.OpenProjectViewOnStart&quot;: &quot;true&quot;,
-    &quot;RunOnceActivity.ShowReadmeOnStart&quot;: &quot;true&quot;,
-    &quot;SHARE_PROJECT_CONFIGURATION_FILES&quot;: &quot;true&quot;,
-    &quot;WebServerToolWindowFactoryState&quot;: &quot;false&quot;,
-    &quot;git-widget-placeholder&quot;: &quot;main&quot;,
-    &quot;last_opened_file_path&quot;: &quot;E:/06-看的见的算法 7个经典应用诠释算法精髓/project/n1pr8g/06-Maze-Generalization/07-Random-Maze-Generalization-with-Mist&quot;,
-    &quot;node.js.detected.package.eslint&quot;: &quot;true&quot;,
-    &quot;node.js.detected.package.tslint&quot;: &quot;true&quot;,
-    &quot;node.js.selected.package.eslint&quot;: &quot;(autodetect)&quot;,
-    &quot;node.js.selected.package.tslint&quot;: &quot;(autodetect)&quot;,
-    &quot;onboarding.tips.debug.path&quot;: &quot;D:/Project Source Code/DS-Graph-Java/Graph/src/Main.java&quot;,
-    &quot;settings.editor.selected.configurable&quot;: &quot;com.maddyhome.idea.vim.ui.VimEmulationConfigurable&quot;,
-    &quot;vue.rearranger.settings.migration&quot;: &quot;true&quot;
+  <component name="PropertiesComponent"><![CDATA[{
+  "keyToString": {
+    "RunOnceActivity.OpenProjectViewOnStart": "true",
+    "RunOnceActivity.ShowReadmeOnStart": "true",
+    "SHARE_PROJECT_CONFIGURATION_FILES": "true",
+    "WebServerToolWindowFactoryState": "false",
+    "git-widget-placeholder": "main",
+    "last_opened_file_path": "D:/Project Source Code/DS-Graph-Java/Graph/src/Chapt05_Path_Union_Find",
+    "node.js.detected.package.eslint": "true",
+    "node.js.detected.package.tslint": "true",
+    "node.js.selected.package.eslint": "(autodetect)",
+    "node.js.selected.package.tslint": "(autodetect)",
+    "onboarding.tips.debug.path": "D:/Project Source Code/DS-Graph-Java/Graph/src/Main.java",
+    "settings.editor.selected.configurable": "com.maddyhome.idea.vim.ui.VimEmulationConfigurable",
+    "vue.rearranger.settings.migration": "true"
   }
-}</component>
+}]]></component>
   <component name="RecentsManager">
     <key name="CopyFile.RECENT_KEYS">
+      <recent name="D:\Project Source Code\DS-Graph-Java\Graph\src\Chapt05_Path_Union_Find" />
       <recent name="D:\Project Source Code\DS-Graph-Java\Graph\src\Chapt04_BFS_Path\_0403_AllPairsPath" />
       <recent name="D:\Project Source Code\DS-Graph-Java\Graph\src\Chapt04_BFS_Path\_0406_BipartitionDetection" />
       <recent name="D:\Project Source Code\DS-Graph-Java\Graph\src\Chapt04_BFS_Path\_0405_CycleDetection" />
       <recent name="D:\Project Source Code\DS-Graph-Java\Graph\src\Chapt04_BFS_Path\_0404_Graph_BFS_ConnectedComponentsCount" />
-      <recent name="D:\Project Source Code\DS-Graph-Java\Graph\src\Chapt04_BFS_Path\_0402_SingleSourcePath" />
     </key>
     <key name="MoveFile.RECENT_KEYS">
       <recent name="D:\Project Source Code\DS-Graph-Java\Graph" />
@@ -160,6 +157,7 @@
       <workItem from="1697819117696" duration="4495000" />
       <workItem from="1697842566640" duration="4000" />
       <workItem from="1697906909126" duration="14830000" />
+      <workItem from="1697939338796" duration="4251000" />
     </task>
     <servers />
   </component>
