@@ -5,7 +5,17 @@
   </component>
   <component name="ChangeListManager">
     <list default="true" id="466e5a04-5c80-4bf5-a00d-2cb918bdaf8f" name="Changes" comment="">
-      <change afterPath="$PROJECT_DIR$/src/Chapt05_Path_Union_Find/Union_Find.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/g8.txt" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/Chapt06_Bridge_And_CutPoints/Edge.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/Chapt06_Bridge_And_CutPoints/FindBridges.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/Chapt06_Bridge_And_CutPoints/FindCutPoints.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/Chapt06_Bridge_And_CutPoints/Graph.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/Chapt06_Bridge_And_CutPoints/GraphDFS.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/Chapt06_Bridge_And_CutPoints/Solution.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/Chapter07_HamiltonLoop_And_StateCompression_And_MemoizationSearch/Hamilton_Loop/Graph.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/Chapter07_HamiltonLoop_And_StateCompression_And_MemoizationSearch/Hamilton_Loop/GraphDFS.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/Chapter07_HamiltonLoop_And_StateCompression_And_MemoizationSearch/Hamilton_Loop/HamiltonLoop.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/Chapter07_HamiltonLoop_And_StateCompression_And_MemoizationSearch/State_Compression/Graph.java" afterDir="false" />
       <change beforePath="$PROJECT_DIR$/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/workspace.xml" afterDir="false" />
     </list>
     <option name="SHOW_DIALOG" value="false" />
@@ -36,40 +46,42 @@
     "SHARE_PROJECT_CONFIGURATION_FILES": "true",
     "WebServerToolWindowFactoryState": "false",
     "git-widget-placeholder": "main",
-    "last_opened_file_path": "D:/Project Source Code/DS-Graph-Java/Graph/src/Chapt05_Path_Union_Find",
+    "last_opened_file_path": "D:/Project Source Code/DS-Graph-Java/Graph/src/Chapter07_HamiltonLoop_And_StateCompression_And_MemoizationSearch/Memoization_Search",
     "node.js.detected.package.eslint": "true",
     "node.js.detected.package.tslint": "true",
     "node.js.selected.package.eslint": "(autodetect)",
     "node.js.selected.package.tslint": "(autodetect)",
     "onboarding.tips.debug.path": "D:/Project Source Code/DS-Graph-Java/Graph/src/Main.java",
-    "settings.editor.selected.configurable": "com.maddyhome.idea.vim.ui.VimEmulationConfigurable",
+    "settings.editor.selected.configurable": "preferences.pluginManager",
     "vue.rearranger.settings.migration": "true"
   }
 }]]></component>
   <component name="RecentsManager">
     <key name="CopyFile.RECENT_KEYS">
-      <recent name="D:\Project Source Code\DS-Graph-Java\Graph\src\Chapt05_Path_Union_Find" />
-      <recent name="D:\Project Source Code\DS-Graph-Java\Graph\src\Chapt04_BFS_Path\_0403_AllPairsPath" />
-      <recent name="D:\Project Source Code\DS-Graph-Java\Graph\src\Chapt04_BFS_Path\_0406_BipartitionDetection" />
-      <recent name="D:\Project Source Code\DS-Graph-Java\Graph\src\Chapt04_BFS_Path\_0405_CycleDetection" />
-      <recent name="D:\Project Source Code\DS-Graph-Java\Graph\src\Chapt04_BFS_Path\_0404_Graph_BFS_ConnectedComponentsCount" />
+      <recent name="D:\Project Source Code\DS-Graph-Java\Graph\src\Chapter07_HamiltonLoop_And_StateCompression_And_MemoizationSearch\Memoization_Search" />
+      <recent name="D:\Project Source Code\DS-Graph-Java\Graph\src\Chapter07_Hamilton_Loop_And_Path\Hamilton_Loop" />
+      <recent name="D:\Project Source Code\DS-Graph-Java\Graph\src\Chapt06_Bridge" />
+      <recent name="D:\Project Source Code\DS-Graph-Java\Graph" />
+      <recent name="D:\Project Source Code\DS-Graph-Java\Graph\src" />
     </key>
     <key name="MoveFile.RECENT_KEYS">
       <recent name="D:\Project Source Code\DS-Graph-Java\Graph" />
     </key>
     <key name="CopyClassDialog.RECENTS_KEY">
+      <recent name="Chapter07_HamiltonLoop_And_StateCompression_And_MemoizationSearch.State_Compression" />
+      <recent name="Chapter07_Hamilton_Loop_And_Path.State_Compression" />
+      <recent name="Chapt05_Path_Union_Find" />
       <recent name="Chapt04_BFS_Path._0402_SingleSourcePath" />
       <recent name="Chapt02_DFS" />
-      <recent name="" />
     </key>
   </component>
-  <component name="RunManager" selected="Application.Path">
-    <configuration name="GraphBFS" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
-      <option name="MAIN_CLASS_NAME" value="Chapt04_BFS_Path._0401_Graph_BFS_Queue.GraphBFS" />
+  <component name="RunManager" selected="Application.HamiltonPath">
+    <configuration name="FindBridges" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
+      <option name="MAIN_CLASS_NAME" value="Chapt06_Bridge_And_CutPoints.FindBridges" />
       <module name="Graph" />
       <extension name="coverage">
         <pattern>
-          <option name="PATTERN" value="Chapt04_BFS_Path._0401_Graph_BFS_Queue.*" />
+          <option name="PATTERN" value="Chapt06_Bridge_And_CutPoints.*" />
           <option name="ENABLED" value="true" />
         </pattern>
       </extension>
@@ -77,12 +89,12 @@
         <option name="Make" enabled="true" />
       </method>
     </configuration>
-    <configuration name="GraphDFS" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
-      <option name="MAIN_CLASS_NAME" value="Chapt02_DFS._0204_Graph_DFS_WithoutRecursion.GraphDFS" />
+    <configuration name="FindCutPoints" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
+      <option name="MAIN_CLASS_NAME" value="Chapt06_Bridge_And_CutPoints.FindCutPoints" />
       <module name="Graph" />
       <extension name="coverage">
         <pattern>
-          <option name="PATTERN" value="Chapt02_DFS._0204_Graph_DFS_WithoutRecursion.*" />
+          <option name="PATTERN" value="Chapt06_Bridge_And_CutPoints.*" />
           <option name="ENABLED" value="true" />
         </pattern>
       </extension>
@@ -90,12 +102,12 @@
         <option name="Make" enabled="true" />
       </method>
     </configuration>
-    <configuration name="GraphDFSnr" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
-      <option name="MAIN_CLASS_NAME" value="Chapt02_DFS._0204_Graph_DFS_WithoutRecursion.GraphDFSnr" />
+    <configuration name="HamiltonLoop" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
+      <option name="MAIN_CLASS_NAME" value="Chapter07_HamiltonLoop_And_StateCompression_And_MemoizationSearch.Hamilton_Loop.HamiltonLoop" />
       <module name="Graph" />
       <extension name="coverage">
         <pattern>
-          <option name="PATTERN" value="Chapt02_DFS._0204_Graph_DFS_WithoutRecursion.*" />
+          <option name="PATTERN" value="Chapter07_HamiltonLoop_And_StateCompression_And_MemoizationSearch.State_Compression.*" />
           <option name="ENABLED" value="true" />
         </pattern>
       </extension>
@@ -103,12 +115,12 @@
         <option name="Make" enabled="true" />
       </method>
     </configuration>
-    <configuration name="Path" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
-      <option name="MAIN_CLASS_NAME" value="Chapt04_BFS_Path._0403_AllPairsPath.Path" />
+    <configuration name="HamiltonLoop_Optimization" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
+      <option name="MAIN_CLASS_NAME" value="Chapter07_HamiltonLoop_And_StateCompression_And_MemoizationSearch.Hamilton_Loop.HamiltonLoop_Optimization" />
       <module name="Graph" />
       <extension name="coverage">
         <pattern>
-          <option name="PATTERN" value="Chapt04_BFS_Path._0403_AllPairsPath.*" />
+          <option name="PATTERN" value="Chapter07_HamiltonLoop_And_StateCompression_And_MemoizationSearch.State_Compression.*" />
           <option name="ENABLED" value="true" />
         </pattern>
       </extension>
@@ -116,12 +128,12 @@
         <option name="Make" enabled="true" />
       </method>
     </configuration>
-    <configuration name="USSSPath" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
-      <option name="MAIN_CLASS_NAME" value="Chapt04_BFS_Path._0407_UnweightedSingleSourceShortestPaths.USSSPath" />
+    <configuration name="HamiltonPath" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
+      <option name="MAIN_CLASS_NAME" value="Chapter07_HamiltonLoop_And_StateCompression_And_MemoizationSearch.Hamilton_Loop.HamiltonPath" />
       <module name="Graph" />
       <extension name="coverage">
         <pattern>
-          <option name="PATTERN" value="Chapt04_BFS_Path._0407_UnweightedSingleSourceShortestPaths.*" />
+          <option name="PATTERN" value="Chapter07_HamiltonLoop_And_StateCompression_And_MemoizationSearch.State_Compression.*" />
           <option name="ENABLED" value="true" />
         </pattern>
       </extension>
@@ -131,11 +143,11 @@
     </configuration>
     <recent_temporary>
       <list>
-        <item itemvalue="Application.Path" />
-        <item itemvalue="Application.USSSPath" />
-        <item itemvalue="Application.GraphBFS" />
-        <item itemvalue="Application.GraphDFSnr" />
-        <item itemvalue="Application.GraphDFS" />
+        <item itemvalue="Application.HamiltonPath" />
+        <item itemvalue="Application.HamiltonLoop_Optimization" />
+        <item itemvalue="Application.HamiltonLoop" />
+        <item itemvalue="Application.FindCutPoints" />
+        <item itemvalue="Application.FindBridges" />
       </list>
     </recent_temporary>
   </component>
@@ -158,6 +170,9 @@
       <workItem from="1697842566640" duration="4000" />
       <workItem from="1697906909126" duration="14830000" />
       <workItem from="1697939338796" duration="4251000" />
+      <workItem from="1697949670727" duration="661000" />
+      <workItem from="1699561737113" duration="1860000" />
+      <workItem from="1699564517554" duration="8703000" />
     </task>
     <servers />
   </component>
