@@ -59,10 +59,10 @@ public class HamiltonPath_StateCompression {
     public static void main(String[] args){
 
         Graph g = new Graph("g.txt");
-        HamiltonPath hp = new HamiltonPath(g, 0);
+        HamiltonPath_StateCompression hp = new HamiltonPath_StateCompression(g, 0);
         System.out.println(hp.result());
 
-        HamiltonPath hp2 = new HamiltonPath(g, 1);
+        HamiltonPath_StateCompression hp2 = new HamiltonPath_StateCompression(g, 1);
         System.out.println(hp2.result());
     }
 }
