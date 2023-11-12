@@ -5,11 +5,80 @@
   </component>
   <component name="ChangeListManager">
     <list default="true" id="466e5a04-5c80-4bf5-a00d-2cb918bdaf8f" name="Changes" comment="">
-      <change afterPath="$PROJECT_DIR$/src/Chapter08_EulerLoop_And_EulerPath/CC.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/Chapter08_EulerLoop_And_EulerPath/EulerLoop.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/Chapter08_EulerLoop_And_EulerPath/Graph.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/gw1.txt" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/Chapter09_Weight_Graph/WeightedGraph.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/Chapter10_Min_Spanning_Tree/Kruskal/CC.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/Chapter10_Min_Spanning_Tree/Kruskal/Kruskal.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/Chapter10_Min_Spanning_Tree/Kruskal/Solution.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/Chapter10_Min_Spanning_Tree/Kruskal/UF.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/Chapter10_Min_Spanning_Tree/Kruskal/WeightedEdge.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/Chapter10_Min_Spanning_Tree/Kruskal/WeightedGraph.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/Chapter10_Min_Spanning_Tree/Prim/Optimization/CC.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/Chapter10_Min_Spanning_Tree/Prim/Optimization/Prim.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/Chapter10_Min_Spanning_Tree/Prim/Optimization/UF.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/Chapter10_Min_Spanning_Tree/Prim/Optimization/WeightedEdge.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/Chapter10_Min_Spanning_Tree/Prim/Optimization/WeightedGraph.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/Chapter10_Min_Spanning_Tree/Prim/Traditional/CC.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/Chapter10_Min_Spanning_Tree/Prim/Traditional/Prim.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/Chapter10_Min_Spanning_Tree/Prim/Traditional/UF.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/Chapter10_Min_Spanning_Tree/Prim/Traditional/WeightedEdge.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/Chapter10_Min_Spanning_Tree/Prim/Traditional/WeightedGraph.java" afterDir="false" />
       <change beforePath="$PROJECT_DIR$/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/workspace.xml" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/src/Chapter07_HamiltonLoop_And_StateCompression_And_MemoizationSearch/State_Compression/HamiltonPath_StateCompression.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/Chapter07_HamiltonLoop_And_StateCompression_And_MemoizationSearch/State_Compression/HamiltonPath_StateCompression.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/Chapt01_Adjacency/AdjList.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/Chapter01_Adjacency/AdjList.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/Chapt01_Adjacency/AdjMatrix.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/Chapter01_Adjacency/AdjMatrix.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/Chapt01_Adjacency/AdjSet.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/Chapter01_Adjacency/AdjSet.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/Chapt02_DFS/_0201_Graph_DFS_ArrayList/Graph.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/Chapter02_DFS/_0201_Graph_DFS_ArrayList/Graph.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/Chapt02_DFS/_0201_Graph_DFS_ArrayList/GraphDFS.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/Chapter02_DFS/_0201_Graph_DFS_ArrayList/GraphDFS.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/Chapt02_DFS/_0202_Graph_DFS_PreOrderAndPostOrder_AdjMatrix/AdjMatrix.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/Chapter02_DFS/_0202_Graph_DFS_PreOrderAndPostOrder_AdjMatrix/AdjMatrix.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/Chapt02_DFS/_0202_Graph_DFS_PreOrderAndPostOrder_AdjMatrix/AdjMatrixDFS.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/Chapter02_DFS/_0202_Graph_DFS_PreOrderAndPostOrder_AdjMatrix/AdjMatrixDFS.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/Chapt02_DFS/_0203_Graph_DFS_UsingInterface_Combiation/AdjList.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/Chapter02_DFS/_0203_Graph_DFS_UsingInterface_Combiation/AdjList.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/Chapt02_DFS/_0203_Graph_DFS_UsingInterface_Combiation/AdjMatrix.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/Chapter02_DFS/_0203_Graph_DFS_UsingInterface_Combiation/AdjMatrix.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/Chapt02_DFS/_0203_Graph_DFS_UsingInterface_Combiation/AdjSet.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/Chapter02_DFS/_0203_Graph_DFS_UsingInterface_Combiation/AdjSet.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/Chapt02_DFS/_0203_Graph_DFS_UsingInterface_Combiation/Graph.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/Chapter02_DFS/_0203_Graph_DFS_UsingInterface_Combiation/Graph.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/Chapt02_DFS/_0203_Graph_DFS_UsingInterface_Combiation/GraphDFS.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/Chapter02_DFS/_0203_Graph_DFS_UsingInterface_Combiation/GraphDFS.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/Chapt02_DFS/_0204_Graph_DFS_WithoutRecursion/Graph.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/Chapter02_DFS/_0204_Graph_DFS_WithoutRecursion/Graph.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/Chapt02_DFS/_0204_Graph_DFS_WithoutRecursion/GraphDFS.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/Chapter02_DFS/_0204_Graph_DFS_WithoutRecursion/GraphDFS.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/Chapt02_DFS/_0204_Graph_DFS_WithoutRecursion/GraphDFSnr.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/Chapter02_DFS/_0204_Graph_DFS_WithoutRecursion/GraphDFSnr.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/Chapt02_DFS/_0205_Graph_DFS_ConnectedComponentsCount/CC.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/Chapter02_DFS/_0205_Graph_DFS_ConnectedComponentsCount/CC.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/Chapt02_DFS/_0205_Graph_DFS_ConnectedComponentsCount/Graph.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/Chapter02_DFS/_0205_Graph_DFS_ConnectedComponentsCount/Graph.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/Chapt02_DFS/_0205_Graph_DFS_ConnectedComponentsCount/GraphDFS.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/Chapter02_DFS/_0205_Graph_DFS_ConnectedComponentsCount/GraphDFS.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/Chapt03_DFS_Path/_0301_SingleSourcePath/Graph.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/Chapter03_DFS_Path/_0301_SingleSourcePath/Graph.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/Chapt03_DFS_Path/_0301_SingleSourcePath/SingleSourcePath.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/Chapter03_DFS_Path/_0301_SingleSourcePath/SingleSourcePath.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/Chapt03_DFS_Path/_0301_SingleSourcePath/SingleSourcePath_Improvement.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/Chapter03_DFS_Path/_0301_SingleSourcePath/SingleSourcePath_Improvement.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/Chapt03_DFS_Path/_0302_AllPairsPath/_01_UsingSingleSourcePath/AllPairsPath.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/Chapter03_DFS_Path/_0302_AllPairsPath/_01_UsingSingleSourcePath/AllPairsPath.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/Chapt03_DFS_Path/_0302_AllPairsPath/_01_UsingSingleSourcePath/Graph.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/Chapter03_DFS_Path/_0302_AllPairsPath/_01_UsingSingleSourcePath/Graph.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/Chapt03_DFS_Path/_0302_AllPairsPath/_01_UsingSingleSourcePath/SingleSourcePath.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/Chapter03_DFS_Path/_0302_AllPairsPath/_01_UsingSingleSourcePath/SingleSourcePath.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/Chapt03_DFS_Path/_0302_AllPairsPath/_01_UsingSingleSourcePath/SingleSourcePath_Improvement.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/Chapter03_DFS_Path/_0302_AllPairsPath/_01_UsingSingleSourcePath/SingleSourcePath_Improvement.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/Chapt03_DFS_Path/_0302_AllPairsPath/_02_Direct_DFS_improvement/Graph.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/Chapter03_DFS_Path/_0302_AllPairsPath/_02_Direct_DFS_improvement/Graph.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/Chapt03_DFS_Path/_0302_AllPairsPath/_02_Direct_DFS_improvement/Path.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/Chapter03_DFS_Path/_0302_AllPairsPath/_02_Direct_DFS_improvement/Path.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/Chapt03_DFS_Path/_0303_CycleDetection/CycleDetection.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/Chapter03_DFS_Path/_0303_CycleDetection/CycleDetection.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/Chapt03_DFS_Path/_0303_CycleDetection/Graph.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/Chapter03_DFS_Path/_0303_CycleDetection/Graph.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/Chapt03_DFS_Path/_0304_BipartitionDetection/BipartitionDetection.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/Chapter03_DFS_Path/_0304_BipartitionDetection/BipartitionDetection.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/Chapt03_DFS_Path/_0304_BipartitionDetection/Graph.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/Chapter03_DFS_Path/_0304_BipartitionDetection/Graph.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/Chapt04_BFS_Path/_0401_Graph_BFS_Queue/Graph.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/Chapter04_BFS_Path/_0401_Graph_BFS_Queue/Graph.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/Chapt04_BFS_Path/_0401_Graph_BFS_Queue/GraphBFS.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/Chapter04_BFS_Path/_0401_Graph_BFS_Queue/GraphBFS.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/Chapt04_BFS_Path/_0402_SingleSourcePath/Graph.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/Chapter04_BFS_Path/_0402_SingleSourcePath/Graph.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/Chapt04_BFS_Path/_0402_SingleSourcePath/Path.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/Chapter04_BFS_Path/_0402_SingleSourcePath/Path.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/Chapt04_BFS_Path/_0402_SingleSourcePath/SingleSourcePath.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/Chapter04_BFS_Path/_0402_SingleSourcePath/SingleSourcePath.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/Chapt04_BFS_Path/_0403_AllPairsPath/AllPairsPath_UsingSingleSourcePath.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/Chapter04_BFS_Path/_0403_AllPairsPath/AllPairsPath_UsingSingleSourcePath.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/Chapt04_BFS_Path/_0403_AllPairsPath/Graph.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/Chapter04_BFS_Path/_0403_AllPairsPath/Graph.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/Chapt04_BFS_Path/_0403_AllPairsPath/Path.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/Chapter04_BFS_Path/_0403_AllPairsPath/Path.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/Chapt04_BFS_Path/_0403_AllPairsPath/SingleSourcePath.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/Chapter04_BFS_Path/_0403_AllPairsPath/SingleSourcePath.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/Chapt04_BFS_Path/_0404_Graph_BFS_ConnectedComponentsCount/CC.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/Chapter04_BFS_Path/_0404_Graph_BFS_ConnectedComponentsCount/CC.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/Chapt04_BFS_Path/_0404_Graph_BFS_ConnectedComponentsCount/Graph.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/Chapter04_BFS_Path/_0404_Graph_BFS_ConnectedComponentsCount/Graph.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/Chapt04_BFS_Path/_0405_CycleDetection/CycleDetection.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/Chapter04_BFS_Path/_0405_CycleDetection/CycleDetection.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/Chapt04_BFS_Path/_0405_CycleDetection/Graph.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/Chapter04_BFS_Path/_0405_CycleDetection/Graph.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/Chapt04_BFS_Path/_0406_BipartitionDetection/BipartitionDetection.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/Chapter04_BFS_Path/_0406_BipartitionDetection/BipartitionDetection.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/Chapt04_BFS_Path/_0406_BipartitionDetection/Graph.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/Chapter04_BFS_Path/_0406_BipartitionDetection/Graph.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/Chapt04_BFS_Path/_0407_UnweightedSingleSourceShortestPaths/Graph.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/Chapter04_BFS_Path/_0407_UnweightedSingleSourceShortestPaths/Graph.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/Chapt04_BFS_Path/_0407_UnweightedSingleSourceShortestPaths/USSSPath.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/Chapter04_BFS_Path/_0407_UnweightedSingleSourceShortestPaths/USSSPath.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/Chapt05_Path_Union_Find/Union_Find.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/Chapter05_Path_Union_Find/Union_Find.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/Chapt06_Bridge_And_CutPoints/Edge.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/Chapter06_Bridge_And_CutPoints/Edge.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/Chapt06_Bridge_And_CutPoints/FindBridges.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/Chapter06_Bridge_And_CutPoints/FindBridges.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/Chapt06_Bridge_And_CutPoints/FindCutPoints.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/Chapter06_Bridge_And_CutPoints/FindCutPoints.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/Chapt06_Bridge_And_CutPoints/Graph.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/Chapter06_Bridge_And_CutPoints/Graph.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/Chapt06_Bridge_And_CutPoints/GraphDFS.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/Chapter06_Bridge_And_CutPoints/GraphDFS.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/Chapt06_Bridge_And_CutPoints/Solution.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/Chapter06_Bridge_And_CutPoints/Solution.java" afterDir="false" />
     </list>
     <option name="SHOW_DIALOG" value="false" />
     <option name="HIGHLIGHT_CONFLICTS" value="true" />
@@ -32,30 +101,30 @@
     <option name="hideEmptyMiddlePackages" value="true" />
     <option name="showLibraryContents" value="true" />
   </component>
-  <component name="PropertiesComponent">{
-  &quot;keyToString&quot;: {
-    &quot;RunOnceActivity.OpenProjectViewOnStart&quot;: &quot;true&quot;,
-    &quot;RunOnceActivity.ShowReadmeOnStart&quot;: &quot;true&quot;,
-    &quot;SHARE_PROJECT_CONFIGURATION_FILES&quot;: &quot;true&quot;,
-    &quot;WebServerToolWindowFactoryState&quot;: &quot;false&quot;,
-    &quot;git-widget-placeholder&quot;: &quot;main&quot;,
-    &quot;last_opened_file_path&quot;: &quot;D:/Project Source Code/DS-Graph-Java/Graph/src/Chapter08_EulerLoop_And_EulerPath&quot;,
-    &quot;node.js.detected.package.eslint&quot;: &quot;true&quot;,
-    &quot;node.js.detected.package.tslint&quot;: &quot;true&quot;,
-    &quot;node.js.selected.package.eslint&quot;: &quot;(autodetect)&quot;,
-    &quot;node.js.selected.package.tslint&quot;: &quot;(autodetect)&quot;,
-    &quot;onboarding.tips.debug.path&quot;: &quot;D:/Project Source Code/DS-Graph-Java/Graph/src/Main.java&quot;,
-    &quot;settings.editor.selected.configurable&quot;: &quot;preferences.pluginManager&quot;,
-    &quot;vue.rearranger.settings.migration&quot;: &quot;true&quot;
+  <component name="PropertiesComponent"><![CDATA[{
+  "keyToString": {
+    "RunOnceActivity.OpenProjectViewOnStart": "true",
+    "RunOnceActivity.ShowReadmeOnStart": "true",
+    "SHARE_PROJECT_CONFIGURATION_FILES": "true",
+    "WebServerToolWindowFactoryState": "false",
+    "git-widget-placeholder": "main",
+    "last_opened_file_path": "D:/Project Source Code/DS-Graph-Java/Graph/src/Chapter10_Min_Spanning_Tree/Prim/Optimization",
+    "node.js.detected.package.eslint": "true",
+    "node.js.detected.package.tslint": "true",
+    "node.js.selected.package.eslint": "(autodetect)",
+    "node.js.selected.package.tslint": "(autodetect)",
+    "onboarding.tips.debug.path": "D:/Project Source Code/DS-Graph-Java/Graph/src/Main.java",
+    "settings.editor.selected.configurable": "preferences.pluginManager",
+    "vue.rearranger.settings.migration": "true"
   }
-}</component>
+}]]></component>
   <component name="RecentsManager">
     <key name="CopyFile.RECENT_KEYS">
-      <recent name="D:\Project Source Code\DS-Graph-Java\Graph\src\Chapter08_EulerLoop_And_EulerPath" />
-      <recent name="D:\Project Source Code\DS-Graph-Java\Graph\src\Chapter07_HamiltonLoop_And_StateCompression_And_MemoizationSearch\Memoization_Search" />
-      <recent name="D:\Project Source Code\DS-Graph-Java\Graph\src\Chapter07_Hamilton_Loop_And_Path\Hamilton_Loop" />
-      <recent name="D:\Project Source Code\DS-Graph-Java\Graph\src\Chapt06_Bridge" />
+      <recent name="D:\Project Source Code\DS-Graph-Java\Graph\src\Chapter10_Min_Spanning_Tree\Prim\Optimization" />
+      <recent name="D:\Project Source Code\DS-Graph-Java\Graph\src\Chapter10_Min_Spanning_Tree\Prim" />
+      <recent name="D:\Project Source Code\DS-Graph-Java\Graph\src\Chapter10_Min_Spanning_Tree\Kruskal" />
       <recent name="D:\Project Source Code\DS-Graph-Java\Graph" />
+      <recent name="D:\Project Source Code\DS-Graph-Java\Graph\src\Chapter09_Weight_Graph" />
     </key>
     <key name="MoveFile.RECENT_KEYS">
       <recent name="D:\Project Source Code\DS-Graph-Java\Graph" />
@@ -68,52 +137,26 @@
       <recent name="Chapt02_DFS" />
     </key>
   </component>
-  <component name="RunManager" selected="Application.EulerLoop">
+  <component name="RunManager" selected="Application.Kruskal">
+    <configuration name="CC" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
+      <option name="MAIN_CLASS_NAME" value="Chapter10_Min_Spanning_Tree.Kruskal.CC" />
+      <module name="Graph" />
+      <extension name="coverage">
+        <pattern>
+          <option name="PATTERN" value="Chapter10_Min_Spanning_Tree.Kruskal.*" />
+          <option name="ENABLED" value="true" />
+        </pattern>
+      </extension>
+      <method v="2">
+        <option name="Make" enabled="true" />
+      </method>
+    </configuration>
     <configuration name="EulerLoop" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
       <option name="MAIN_CLASS_NAME" value="Chapter08_EulerLoop_And_EulerPath.EulerLoop" />
       <module name="Graph" />
       <extension name="coverage">
         <pattern>
           <option name="PATTERN" value="Chapter08_EulerLoop_And_EulerPath.*" />
-          <option name="ENABLED" value="true" />
-        </pattern>
-      </extension>
-      <method v="2">
-        <option name="Make" enabled="true" />
-      </method>
-    </configuration>
-    <configuration name="HamiltonLoop" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
-      <option name="MAIN_CLASS_NAME" value="Chapter07_HamiltonLoop_And_StateCompression_And_MemoizationSearch.Hamilton_Loop.HamiltonLoop" />
-      <module name="Graph" />
-      <extension name="coverage">
-        <pattern>
-          <option name="PATTERN" value="Chapter07_HamiltonLoop_And_StateCompression_And_MemoizationSearch.State_Compression.*" />
-          <option name="ENABLED" value="true" />
-        </pattern>
-      </extension>
-      <method v="2">
-        <option name="Make" enabled="true" />
-      </method>
-    </configuration>
-    <configuration name="HamiltonLoop_Optimization" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
-      <option name="MAIN_CLASS_NAME" value="Chapter07_HamiltonLoop_And_StateCompression_And_MemoizationSearch.Hamilton_Loop.HamiltonLoop_Optimization" />
-      <module name="Graph" />
-      <extension name="coverage">
-        <pattern>
-          <option name="PATTERN" value="Chapter07_HamiltonLoop_And_StateCompression_And_MemoizationSearch.State_Compression.*" />
-          <option name="ENABLED" value="true" />
-        </pattern>
-      </extension>
-      <method v="2">
-        <option name="Make" enabled="true" />
-      </method>
-    </configuration>
-    <configuration name="HamiltonPath" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
-      <option name="MAIN_CLASS_NAME" value="Chapter07_HamiltonLoop_And_StateCompression_And_MemoizationSearch.Hamilton_Loop.HamiltonPath" />
-      <module name="Graph" />
-      <extension name="coverage">
-        <pattern>
-          <option name="PATTERN" value="Chapter07_HamiltonLoop_And_StateCompression_And_MemoizationSearch.State_Compression.*" />
           <option name="ENABLED" value="true" />
         </pattern>
       </extension>
@@ -134,13 +177,39 @@
         <option name="Make" enabled="true" />
       </method>
     </configuration>
+    <configuration name="Kruskal" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
+      <option name="MAIN_CLASS_NAME" value="Chapter10_Min_Spanning_Tree.Kruskal.Kruskal" />
+      <module name="Graph" />
+      <extension name="coverage">
+        <pattern>
+          <option name="PATTERN" value="Chapter10_Min_Spanning_Tree.Kruskal.*" />
+          <option name="ENABLED" value="true" />
+        </pattern>
+      </extension>
+      <method v="2">
+        <option name="Make" enabled="true" />
+      </method>
+    </configuration>
+    <configuration name="WeightedGraph" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
+      <option name="MAIN_CLASS_NAME" value="Chapter09_Weight_Graph.WeightedGraph" />
+      <module name="Graph" />
+      <extension name="coverage">
+        <pattern>
+          <option name="PATTERN" value="Chapter09_Weight_Graph.*" />
+          <option name="ENABLED" value="true" />
+        </pattern>
+      </extension>
+      <method v="2">
+        <option name="Make" enabled="true" />
+      </method>
+    </configuration>
     <recent_temporary>
       <list>
+        <item itemvalue="Application.Kruskal" />
+        <item itemvalue="Application.CC" />
+        <item itemvalue="Application.WeightedGraph" />
         <item itemvalue="Application.EulerLoop" />
         <item itemvalue="Application.HamiltonPath_StateCompression" />
-        <item itemvalue="Application.HamiltonPath" />
-        <item itemvalue="Application.HamiltonLoop_Optimization" />
-        <item itemvalue="Application.HamiltonLoop" />
       </list>
     </recent_temporary>
   </component>
@@ -168,6 +237,7 @@
       <workItem from="1699564517554" duration="8703000" />
       <workItem from="1699680169176" duration="3079000" />
       <workItem from="1699740189930" duration="10000" />
+      <workItem from="1699740269901" duration="6720000" />
     </task>
     <servers />
   </component>
